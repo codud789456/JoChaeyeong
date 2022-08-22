@@ -9,7 +9,7 @@
 
 
 <h3>😝URL</h3>
-<a href="https://velog.io/@987412563">
-    <img src="http://img.shields.io/badge/Tech Blog-00D182?style=flat&logo=Emby&logoColor=white&link=https://blog.naver.com/0yihyeon"
+<a href="https://blog.naver.com/0yihyeon">
+    <img src="http://img.shields.io/badge/Study Blog-00D182?style=flat&logo=Emby&logoColor=white&link=https://blog.naver.com/0yihyeon"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
