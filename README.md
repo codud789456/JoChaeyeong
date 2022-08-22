@@ -15,3 +15,7 @@
     <img src="http://img.shields.io/badge/Study Blog-00D182?style=flat&logo=Emby&logoColor=white&link=https://blog.naver.com/0yihyeon"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+<a href="https://0yihyeon@naver.com">
+    <img src="http://img.shields.io/badge/e-mail Blog-03C75A?style=flat&logo=Emby&logoColor=white&link=https://0yihyeon@naver.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
