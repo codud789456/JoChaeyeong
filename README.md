@@ -1,4 +1,4 @@
-<h1 aligh = "centr"> JoChaeyeong</h1>
+<h1 aligh = "centr"> JoYuhyeon</h1>
 
 <h3>💻사용언어 및 툴</h3>
 <div>
